@@ -17,7 +17,7 @@ struct ContentView: View {
     var body: some View {
         // UI 구성 및 로직 작성 부분
         ZStack{
-            Color.OX.ignoresSafeArea()
+            //Color.OX.ignoresSafeArea()
             
             VStack{
                 Spacer()
